@@ -14,5 +14,5 @@ Shout out to the OG: [Awesome](https://github.com/sindresorhus/awesome), and [he
 - [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
 - [AI Agent](https://github.com/e2b-dev/awesome-ai-agents)
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme)
-
+- [GNN](https://github.com/thunlp/GNNPapers)
   Thank for all the work the above Awesome list!
